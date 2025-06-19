@@ -4,7 +4,7 @@ This is a bilingual website I created using Google Sites and Google My Maps to h
 
 🗺️ View the live map: [Google Map](https://www.google.com/maps/d/u/0/viewer?mid=1M4GOESGzn9gz0qhvSD0cSVWxWkGru9s)
 
-🌐 Visit the full site: [Google Site](https://sites.google.com/view/communityhelp-hudsoncounty)
+🌐 Visit the full site: [Google Site]([https://sites.google.com/view/communityhelp-hudsoncounty](https://sites.google.com/view/latinohudsonhelp/home))
 
 ## Tools Used
 - Google Sites
