@@ -1,4 +1,4 @@
-# 🌎 LatiHudson – Community Help Map for Hudson County
+# LatiHudson – Community Help Map for Hudson County
 
 **LatiHudson** is a bilingual digital resource designed to help residents of Hudson County, NJ — especially immigrants and underserved communities — easily locate **free food assistance, shelters, legal aid, and healthcare services**.
 
@@ -18,7 +18,7 @@ Built using **Google Sites** and **Google My Maps**, this tool simplifies access
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Google Sites  
 - Google My Maps  
@@ -29,13 +29,13 @@ Built using **Google Sites** and **Google My Maps**, this tool simplifies access
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 To support immigrant and low-income residents of New Jersey by centralizing essential service information in an accessible, bilingual digital format.
 
 ---
 
-## ✅ Features
+## Features
 
 - Filterable interactive map with categorized service locations  
 - English and Spanish content for all key pages  
@@ -45,7 +45,7 @@ To support immigrant and low-income residents of New Jersey by centralizing esse
 
 ---
 
-## 📈 Impact
+## Impact
 
 - Designed as a personal initiative based on real community needs  
 - Tested with immigrant peers and local families  
@@ -54,7 +54,7 @@ To support immigrant and low-income residents of New Jersey by centralizing esse
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to manage and iterate a solo project with real-life users  
 - How to simplify information for broader accessibility  
