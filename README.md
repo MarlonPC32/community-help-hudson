@@ -4,13 +4,13 @@
 
 Built using **Google Sites** and **Google My Maps**, this tool simplifies access to critical local services by offering information in both **English and Spanish**. It includes:
 
-- 🗺️ An interactive map  
-- 📂 Categorized listings  
-- 🤖 A basic button-based chatbot for common questions  
+-  An interactive map  
+-  Categorized listings  
+-  A basic button-based chatbot for common questions  
 
 ---
 
-## 🔗 Live Links
+## Live Links
 
 - 🗺️ [LatiHudson Interactive Map](https://your-google-map-link)  
 - 🌐 [Full LatiHudson Site](https://your-google-site-link)  
